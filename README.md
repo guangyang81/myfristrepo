@@ -1,2 +1,2 @@
-# myfristrepo
-test repo
+# testrepo
+this is a test repo
